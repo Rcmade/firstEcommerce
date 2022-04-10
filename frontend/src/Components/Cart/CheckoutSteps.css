@@ -1,0 +1,35 @@
+.bradeNav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+ol {
+  list-style: none;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+ol .activeLi {
+  color: blue;
+}
+
+ol li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ol li i {
+  font-size: 2rem;
+  margin-right: 0.7rem;
+}
+
+.bradeNav .breadol {
+  color: #000;
+}

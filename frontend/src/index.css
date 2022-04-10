@@ -1,0 +1,26 @@
+/* * {
+  margin: 0;
+  scroll-behavior: smooth;
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* input[type="number"] {
+  -moz-appearance: textfield;
+} */
+
+body {
+  font-family: "Roboto", sans-serif !important ;
+  cursor: url("images/cursor.png") , auto !important;
+}
+
+.greenColor {
+  color: green !important;
+}
+.redColor {
+  color: red !important;
+}
